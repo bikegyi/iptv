@@ -1,7 +1,75 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="Myanmar", Maharbawdi
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_01@449365/master.m3u8
 
-#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", RTV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(b84c57ee-7936-4c81-a9f5-29714084ce5b)/manifest.mpd
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar", Channel-7 
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_03@449367/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MRTV-4 
+http://104275ooyala-lh.akamaihd.net/i/forevergroup_02@449366/master.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" DVB 
+https://edge-stream-07.otv.co.th/livestream/DVB.stream/chunklist_w1819196524.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" Mahar 
+http://maharlive.b-cdn.net:80/stream.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MNTV 
+http://edge-stream-07.otv.co.th.:80/livestream/MNTV.stream/chunklist_w988717742.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" Hluttaw
+http://edge-stream-07.otv.co.th.:80/livestream/Hluttaw.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MRTV 
+https://edge-stream-07.otv.co.th/livestream/MRTV.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" Farmer 
+rtmp://203.81.81.229/livepkgr/farmer
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" NRC 
+rtmp://203.81.81.229/livepkgr/NRCL
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MRTV Entertainment 
+http://edge-stream-07.otv.co.th.:80/livestream/MRTV-Entertainment.stream/chunklist_w1695360477.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" Channel K 
+http://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" 5 Plus 
+https://stream.myanmartvchannels.com:999/5pluschannelsd/5pluschannelsd/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MITV 
+rtmp://203.81.81.229/livepkgr/mitv
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" Channel - 9 
+http://edge-stream-07.otv.co.th/livestream/Channel9.stream/chunklist_w1808693135.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MVMTV 
+https://edge1a.v2h-cdn.com/appt7/MVM.stream_720p/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MWD 
+http://203.81.84.130/hls/mwd/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MWD Variety 
+http://203.81.84.130/hls/mwd_variety/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MWD Series 
+http://203.81.84.130/hls/mwd_serie/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MWD Family 
+http://203.81.84.130/hls/mwd_family/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MWD Document 
+http://203.81.84.130/hls/mwd_document/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MWD Shopping 
+http://203.81.84.130/hls/mwd_shopping/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" MWD Education Knowledge and Sport 
+http://203.81.84.130/hls/mwd_movie/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="Myanmar" Fortune 
+https://d39q34kqnktegw.cloudfront.net/live/4ac29732-73a8-45ca-b528-723ac49e5ddc/prod/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://3.bp.blogspot.com/-Wr4Rkqj06zY/UfXxmjl4HkI/AAAAAAAAA2g/t-hzB8FGdnQ/s1600/lebaran2.gif" group-title="INDONESIA", METRO TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(4983fc74-d7b9-4659-9b27-d42044947d49)/manifest.mpd
@@ -501,7 +569,7 @@ https://bitball.b-cdn.net/movies/APRIL/04-24-2020/Zoo.2018.480p.WEB-DL.x264.IDFL
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", The Den (2013)
 https://bitball.b-cdn.net/movies/APRIL/04-23-2020/The.Den.2013.480p.WEB-HD.x264.IDFL.info.mp4
 
-#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Sal√≤ -  or the 120 Days of Sodom (1975)
+#EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Sal√É¬≤ -  or the 120 Days of Sodom (1975)
 https://bitball.b-cdn.net/movies/APRIL/04-23-2020/Salo.or.the.120.Days.of.Sodom.1975.REMASTERED.480p.BluRay.x264.IDFL.info.mp4
 
 #EXTINF:-1 tvg-logo="https://www.runia.com/wp-content/uploads/2014/11/LOKAL-logo-rood-zonder-url-300x195.png" group-title="VOD MOVIES", Poker Night (2014)
@@ -1242,7 +1310,7 @@ http://dwstream6-lh.akamaihd.net/i/dwstream6_live@123962/index_1_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/xnv0Pgm.jpg" group-title="??????", BGfreetv  DW English
 http://dwstream1-lh.akamaihd.net/i/dwstream1_live@120422/index_1_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/icDGduB.png" group-title="??????", BGfreetv  DW EspaÒol
+#EXTINF:-1 tvg-logo="https://i.imgur.com/icDGduB.png" group-title="??????", BGfreetv  DW Espa√±ol
 https://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8?sd=10&rebase=on
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IKslrJu.png" group-title="??????", BGfreetv  ELBEKANAL
@@ -1344,22 +1412,22 @@ http://92.62.234.223/101/mystream.m3u8
 #EXTINF:-1 tvg-logo="https://www.smidlib.cz/obrazky/clanky/liberecky-eter/co-se-deje-v-eteru-libereckeho-kraje/logo-tv-rtm+.jpg" group-title="?????", BGfreetv  RTM plus
 http://www.rtmplus.cz/live/1-playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/409/v1-vychodoceska-televize-1.jpg" group-title="?????", BGfreetv  V˝chodo?esk· TV
+#EXTINF:-1 tvg-logo="https://i.iinfo.cz/images/409/v1-vychodoceska-televize-1.jpg" group-title="?????", BGfreetv  V√Ωchodo?esk√° TV
 https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="?????", BGfreetv  ”?ko Expres
+#EXTINF:-1 tvg-logo="noimage.png" group-title="?????", BGfreetv  √ì?ko Expres
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="?????", BGfreetv  ”?ko Gold
+#EXTINF:-1 tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="?????", BGfreetv  √ì?ko Gold
 https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="noimage.png" group-title="?????", BGfreetv  ”?ko STAR
+#EXTINF:-1 tvg-logo="noimage.png" group-title="?????", BGfreetv  √ì?ko STAR
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="?????", BGfreetv  ?l·gr
+#EXTINF:-1 tvg-logo="https://www.slagrtv.cz/files/logo-slagr.png" group-title="?????", BGfreetv  ?l√°gr
 https://slagrtv-live-hls.ssl.cdn.cra.cz/channels/slagrtv/playlist/cze/live_hq.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.starnet.cz/tv/slagr2.png" group-title="?????", BGfreetv  ?l·gr 2
+#EXTINF:-1 tvg-logo="https://www.starnet.cz/tv/slagr2.png" group-title="?????", BGfreetv  ?l√°gr 2
 http://92.62.234.233/slagr2.m3u#.m3u8
 
 #EXTINF:-1 tvg-logo="noimage.png" group-title="?????????", BGfreetv |UK| ITV 1
@@ -1413,10 +1481,10 @@ http://streams2.livetv.az/azerbaijan/dalga/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vIobmIp.png" group-title="?????", BGfreetv TV 2 Nord Salto
 https://cdn-lt-live.tv2nord.dk/dc-0/live/hls/p/1956931/e/0_74s20zcv/sd/6000/t/U6L8elLqfaGmZ1aA6yR23A/index-s32.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ehow2k.jpg" group-title="?????", BGfreetv TV 2 ÿst
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ehow2k.jpg" group-title="?????", BGfreetv TV 2 √òst
 http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/sd/6000/t/-YKISZ71uQSojctuBa_EhQ/index-s32.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rC07Op2.jpg" group-title="?????", BGfreetv TV 2 ÿstjylland
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rC07Op2.jpg" group-title="?????", BGfreetv TV 2 √òstjylland
 https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ylB5ea2.jpg" group-title="?????", BGfreetv TV 2/Bornholm
@@ -1446,10 +1514,10 @@ https://w1.kringvarp.fo/uttanlands/_definst_/smil:uttanlands.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/vIobmIp.png" group-title="????????", BGfreetv TV 2 Nord Salto
 https://cdn-lt-live.tv2nord.dk/dc-0/live/hls/p/1956931/e/0_74s20zcv/sd/6000/t/U6L8elLqfaGmZ1aA6yR23A/index-s32.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/0ehow2k.jpg" group-title="????????", BGfreetv TV 2 ÿst
+#EXTINF:-1 tvg-logo="https://i.imgur.com/0ehow2k.jpg" group-title="????????", BGfreetv TV 2 √òst
 http://cdn-lt-live.tveast.dk/dc-0/live/hls/p/1953381/e/0_zphj9q61/sd/6000/t/-YKISZ71uQSojctuBa_EhQ/index-s32.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/rC07Op2.jpg" group-title="????????", BGfreetv TV 2 ÿstjylland
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rC07Op2.jpg" group-title="????????", BGfreetv TV 2 √òstjylland
 https://cdn-lt-live.tv2oj.dk/dc-1/live/hls/p/2102081/e/0_x4p3licd/sd/6000/t/5aoqiGIZk5dVwQnsYa1OiQ/index-s32.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ylB5ea2.jpg" group-title="????????", BGfreetv TV 2/Bornholm
@@ -1527,7 +1595,7 @@ https://live-vrt.akamaized.net/groupc/live/14a2c0f6-3043-4850-88a5-7fb062fe7f05/
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LJ4Hpdc.png" group-title="??????", BGfreetv City Music TV
 http://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/hWfo6az.png" group-title="??????", BGfreetv EÈn
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hWfo6az.png" group-title="??????", BGfreetv E√©n
 https://live-vrt.akamaized.net/groupc/live/8edf3bdf-7db3-41c3-a318-72cb7f82de66/live_aes.isml/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Du0YAJS.png" group-title="??????", BGfreetv Ketnet
@@ -1689,7 +1757,7 @@ http://213.81.153.221:8080/galanta
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QQK4sJs.jpg" group-title="????????", BGfreetv TV Lux
 http://live.tvlux.sk:1935/lux/lux.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/k4IK5OS.png" group-title="????????", BGfreetv TV NovÈ Z·mky
+#EXTINF:-1 tvg-logo="https://i.imgur.com/k4IK5OS.png" group-title="????????", BGfreetv TV Nov√© Z√°mky
 http://s1.media-planet.sk:80/live/novezamky/lihattv.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3cEG19H.jpg" group-title="????????", BGfreetv TV Povazie
