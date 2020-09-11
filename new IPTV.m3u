@@ -1,112 +1,112 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", Fortune TV Free to Air 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-qUmRi_KcYXI/XzuN41FqOVI/AAAAAAAAAWQ/HHImBswA_D0mgW12i7EoCB8kAGLZ0wXJQCLcBGAsYHQ/s225/download%2B%25287%2529.png" group-title="Myanmar", Fortune TV Free to Air
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/fortune.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", DVB Free to Air 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-NF_tlqvojzo/XzuNhTh-HtI/AAAAAAAAAWI/loCxKAnuh94wTP-4OvWpfwyVlIo_rXx2gCLcBGAsYHQ/s170/download%2B%25286%2529.png" group-title="Myanmar", DVB Free to Air
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/dvb.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", MWD Shopping 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-yRl9uw1lPpA/Xw3QMfv0IEI/AAAAAAAAAMg/TCEsoT06mN0Gy8fuO0PZaJEX9gG2s-yggCLcBGAsYHQ/s300/download%2B%252812%2529.png" group-title="Myanmar", MWD Shopping
 http://203.81.84.130/hls/mwd_shopping/index.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", MWD Family 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-R9HU9S_SkQg/Xw3PUQuY87I/AAAAAAAAAMY/HW1JQpCn9_0fJ4x4AjO_6Jum0Xg5md6GACLcBGAsYHQ/s1600/mwdfamily2.jpg" group-title="Myanmar", MWD Family
 http://203.81.84.130/hls/mwd_family/index.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", Channel K 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-JG5Yv6OB4g4/Xw3OchwyNiI/AAAAAAAAAMQ/dD72G0Fn3y4s9_YML1qkD__3yUs8baEpgCLcBGAsYHQ/s225/download%2B%252811%2529.png" group-title="Myanmar", Channel K
 https://d3cs5y5559s57s.cloudfront.net/live/channelk.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", Mizzma TV 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fkH1EAfI_bI/Xw3G7vc-GnI/AAAAAAAAALE/pFtB8FCNlkUp5CVvSGw-9-Y5lDapaIylACLcBGAsYHQ/s132/download%2B%252810%2529.png" group-title="Myanmar", Mizzma TV
 http://220.158.149.14:9999/live/TV00000000000000000092@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", MRTV Framer Channel 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-CSABTNn3whA/Xw3Gm9WjppI/AAAAAAAAAK4/nxZ3iZVKUYEEeszaitIdbByFGmZPa2mKACLcBGAsYHQ/s270/thumb_tvchannel_2019-11-22-11-01-09_1.jpeg" group-title="Myanmar", MRTV Framer Channel
 http://220.158.149.14:9999/live/TV00000000000000000090@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", Channel 9 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-KhG5uD3qJCc/Xw3D_uzcD-I/AAAAAAAAAKk/i3BTxcm34b46BocnIaU7pjVqXMIgM1wvgCLcBGAsYHQ/s275/download%2B%25289%2529.png" group-title="Myanmar", Channel 9
 http://220.158.149.14:9999/live/TV00000000000000000091@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", MRTV Free to Air 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-e_jaio2j2jY/Xw3F3G4wmzI/AAAAAAAAAKw/yird6HD12DMIJ7zg83WXx3kccfkV9IooQCLcBGAsYHQ/s273/download%2B%252812%2529.jpg" group-title="Myanmar", MRTV Free to Air
 http://220.158.149.14:9999/live/TV00000000000000000089@HHZT;LIVE
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", MWD Free To Air 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-0KWIHqXT_UQ/Xwx6aAsqROI/AAAAAAAAAGc/ETF_Qr0pa_oyPV3WZFwLPlNol24a-SpOACLcBGAsYHQ/s600/2018-11-12.jpg" group-title="Myanmar", MWD Free To Air
 http://203.81.84.130/hls/mwd/index.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", Mahar Bawdi 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1rvX3T3M0Rg/Xwx5AABCubI/AAAAAAAAAGI/R39Ln4YzAbQIhceyb8jUkjvzZby8VghpgCLcBGAsYHQ/s238/download%2B%25283%2529.jpg" group-title="Myanmar", Mahar Bawdi
 https://foreveralive1-a.akamaihd.net/327fbb9692d74b8a9fd35e75359fa826/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", MWD Variety 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bbBRCClr4UU/Xwx51nyEBXI/AAAAAAAAAGU/SEKgeNIO4ZM4bQcaLn5zAxDxBjhqrsz8gCLcBGAsYHQ/s132/download.png" group-title="Myanmar", MWD Variety
 http://203.81.84.130/hls/mwd_variety/index.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", Channel 7 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-xOssb63tB-4/Xwx4th_-mpI/AAAAAAAAAF8/7K6LBGSyFHY6yRFfPIg0YNZDYL5B6RvnACLcBGAsYHQ/s180/download%2B%25282%2529.jpg" group-title="Myanmar", Channel 7
 https://59nyq69ndwap-hls-live.5centscdn.com/myanmar/ch7.stream/chunks.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", MRTV-4 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-U-wmjUJNSaE/Xwx4lI6eXcI/AAAAAAAAAF4/zngpC7gp68cJCJ0C4vDP6FZ07Hb1He6ggCLcBGAsYHQ/s180/download%2B%25281%2529.jpg" group-title="Myanmar", MRTV-4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", MRTV-4 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-U-wmjUJNSaE/Xwx4lI6eXcI/AAAAAAAAAF4/zngpC7gp68cJCJ0C4vDP6FZ07Hb1He6ggCLcBGAsYHQ/s180/download%2B%25281%2529.jpg" group-title="Myanmar", MRTV-4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", MRTV-4 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-U-wmjUJNSaE/Xwx4lI6eXcI/AAAAAAAAAF4/zngpC7gp68cJCJ0C4vDP6FZ07Hb1He6ggCLcBGAsYHQ/s180/download%2B%25281%2529.jpg" group-title="Myanmar", MRTV-4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", MRTV-4 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-U-wmjUJNSaE/Xwx4lI6eXcI/AAAAAAAAAF4/zngpC7gp68cJCJ0C4vDP6FZ07Hb1He6ggCLcBGAsYHQ/s180/download%2B%25281%2529.jpg" group-title="Myanmar", MRTV-4
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Myanmar", MRTV-4 h
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-U-wmjUJNSaE/Xwx4lI6eXcI/AAAAAAAAAF4/zngpC7gp68cJCJ0C4vDP6FZ07Hb1He6ggCLcBGAsYHQ/s180/download%2B%25281%2529.jpg" group-title="Myanmar", MRTV-4 h
 https://foreveralive1-a.akamaihd.net/7cbf965de49a4f308eb64b980e690a38/ap-southeast-1/6057949479001/profile_2/chunklist.m3u8
-    
-    
-    
-#EXTINF:-1 tvg-logo=" https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", Premire HD 5 
+
+
+
+#EXTINF:-1 tvg-logo=" https://1.bp.blogspot.com/-WkawT7Wmc3s/X1r9-uo-GyI/AAAAAAAAAW8/GeDrO46lfxwlFThq8FKTWOnoH4tekonCQCLcBGAsYHQ/s200/doomovie-epl5.png" group-title="Sport", Premire HD 5
 https://www.livedoomovies.com/02_PremierHD5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", Premire HD 4 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-ezSqeR6RBYw/X1r9RSXfeNI/AAAAAAAAAW0/ZESmkjJKpiAVsnTaEUr6kmVfDKeO_AecgCLcBGAsYHQ/s200/doomovie-epl4.png" group-title="Sport", Premire HD 4
 https://www.livedoomovies.com/02_PremierHD4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", LFC TV 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Q144voj9GIY/X1obatpqBII/AAAAAAAAAWI/AtSoyQT0ujUx5v2MxG0vG5FYlGlrNWKQQCLcBGAsYHQ/s100/images%2B%252856%2529.jpeg" group-title="Sport", LFC TV
 https://www.livedoomovies.com/02_lfctv_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", GOLF CHANNEL 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-XoIkQMZ9WU4/X1YQwPNq_eI/AAAAAAAAAS8/c2ja2eHM5qYaOhEjzrpYywQroFvA95RFwCLcBGAsYHQ/s100/images%2B%252854%2529.jpeg" group-title="Sport", GOLF CHANNEL
 https://www.livedoomovies.com/02_golfhd_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", VOO SPORT 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-HBX-nw82rAk/X1L4X76RzmI/AAAAAAAAAFQ/pvgRcgCPOLgi7KUaHHdI-LlJMj4BiXTaQCLcBGAsYHQ/s225/download%2B%252852%2529.jpeg" group-title="Sport", VOO SPORT
 http://iptv8.premium-stv.com:2052/sourcebelgiques88/Zjkbgjsdg@7545/1898?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", FOX SPORT 3 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-9FKAwntD7H4/X1JD_-EKIII/AAAAAAAAADE/3gl779SCpB01_zUNoMLL07ic712osSSwACLcBGAsYHQ/s200/sd-foxsports3.png" group-title="Sport", FOX SPORT 3
 https://www.livedoomovies.com/02_FoxSport3_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", FOX SPORT 2 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PFcR9O1x_8U/X1JCM1uNI1I/AAAAAAAAAC4/ed-_kvWMSFkqEUzojxbDKkXY4cjjHzgzQCLcBGAsYHQ/s200/sd-foxsports2.png" group-title="Sport", FOX SPORT 2
 https://www.livedoomovies.com/02_FoxSport2_TH_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", FOX SPORT 1 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-wUBXISbkPkE/X1I5tnal-0I/AAAAAAAAACs/TGE-xJjte3c11NofOovEObtS3AQFfnFTwCLcBGAsYHQ/s200/hd-foxsports1.png" group-title="Sport", FOX SPORT 1
 https://www.livedoomovies.com/02_foxsport_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", Premire  HD 3 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-bfjfrme2-5Q/X1Ir0lygVxI/AAAAAAAAACI/cfbhQFw2rPQ4ylhLCXJOYPGhuLfLLUlsACLcBGAsYHQ/s200/doomovie-epl3%2B%25281%2529.png" group-title="Sport", Premire  HD 3
 https://www.livedoomovies.com/02_PremierHD3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", Premire HD2 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-cGOWAnTxph8/X1IqZ-SRyiI/AAAAAAAAAB8/a6B6JMbGXr8CUYhbqy1scxxz9ElZxUE0ACLcBGAsYHQ/s200/doomovie-epl2.png" group-title="Sport", Premire HD2
 https://www.livedoomovies.com/02_PremierHD2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", Premire HD 1 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-fKIDLqnlhK4/X1Ios4UaYbI/AAAAAAAAABw/MflD6idrstoQrKBSfWZ70Mk6lzDYhwcrwCLcBGAsYHQ/s200/doomovie-epl1.png" group-title="Sport", Premire HD 1
 https://www.livedoomovies.com/02_PremierHD1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", BEIN 2 VIP 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-sNNGccxdJWg/X1InG9p_oBI/AAAAAAAAABk/U_OUgU58_2kDarFxZedHtnzRe_t6m6b0wCLcBGAsYHQ/s200/epl-bein2.png" group-title="Sport", BEIN 2 VIP
 https://www.livedoomovies.com/02_epl2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", Bein 1 VIP 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-U7tN26SThR4/X1IafM9HcCI/AAAAAAAAABY/NghXzSIu6a0NfikF_ja0zfOasKklKmRFgCLcBGAsYHQ/s200/epl-bein1.png" group-title="Sport", Bein 1 VIP
 https://www.livedoomovies.com/02_epl1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", BT Sport2 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pnWdtP0QeTk/X1IYbX5aLdI/AAAAAAAAABM/58m_KfSl7HsObDIEqIVzgzopvVV6nT61QCLcBGAsYHQ/s196/a100.png" group-title="Sport", BT Sport2
 https://www.livedoomovies.com/02_BTSPORTHD_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", BT Sport 1 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-pJrDS2s9U5A/X1IWvpqL3MI/AAAAAAAAABA/sx0c3WQw9Ng6TZwCzw4q3f4riJa9zRcGgCLcBGAsYHQ/s196/a97.png" group-title="Sport", BT Sport 1
 https://www.livedoomovies.com/02_BTSPORTHD_1_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", Sport TV 5 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-UbPV8ZRQULk/X1IU2-arWSI/AAAAAAAAAA0/ICp8gAEyHmYB-RYsr__c5Dv9KEojWn_BgCLcBGAsYHQ/s196/tv-station-sport-tv-5-454.png" group-title="Sport", Sport TV 5
 https://www.livedoomovies.com/02_SPORTTV_5_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", Sport TV 4 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-1TG31tavO_E/X1IT-ffDpgI/AAAAAAAAAAs/unCtQ4xr-eUSZ3yAN4-qe5_y0P88I2NdgCLcBGAsYHQ/s196/tv-station-sport-tv-4-453.png" group-title="Sport", Sport TV 4
 https://www.livedoomovies.com/02_SPORTTV_4_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", Sport TV 3 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-FP9p-c7o_eE/X1IR8w9ovSI/AAAAAAAAAAg/vCLnnElOuvUHh7fk28j2qv4a-Un_aF6bACLcBGAsYHQ/s196/tv-station-pt-sport-tv-3-452.png" group-title="Sport", Sport TV 3
 https://www.livedoomovies.com/02_SPORTTV_3_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", Sport TV 2 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-lIhFewnil4M/X1mdnpnNYTI/AAAAAAAAAUg/egxGtX9VG908FYKZl1P4gOq9W3i-X4LdwCLcBGAsYHQ/s196/tv-station-pt-sport-tv-2-451.png" group-title="Sport", Sport TV 2
 https://www.livedoomovies.com/02_SPORTTV_2_720p/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Sport", Sport TV 1 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-AfD7rPhoE_8/X1IQUGWN9JI/AAAAAAAAAAM/EeIIDPuQC9cMH7TQdtxkoAzNI5h-RMacQCLcBGAsYHQ/s196/tv-station-pt-sport-tv-1-450.png" group-title="Sport", Sport TV 1
 https://www.livedoomovies.com/02_SPORTTV_1_720p/chunklist.m3u8
 
-    
-    
-    
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Movie",  Zee Cinema 
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kg4GilHAh44/X1h2rRHlZhI/AAAAAAAAATc/8nsFbUD76yYC5FTiMTW9bMe6nCstFzJ7wCLcBGAsYHQ/s225/images%2B%252855%2529.jpeg" group-title="Movie",  Zee Cinema
 http://z5amshls.akamaized.net/cinemausa/tracks-v1a1/playlist.m3u8?checkedby:iptvcat.com
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Movie",  Star Movies 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-kJ3mboIM6N8/X1USBnwkHfI/AAAAAAAAASw/X1-tiXaSpqgcywKeYeB4VR35H8I6_7H3gCLcBGAsYHQ/s300/images%2B%252811%2529.jpeg" group-title="Movie",  Star Movies
 http://87.117.234.107:1935/live/StarMovies_SELECT_HD/playlists.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Movie",  WB TV 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-PMEMK2lGkY8/X1OPIptYO5I/AAAAAAAAALY/6ORM9N1hvdkrK_JvIf0Ssqer59qqQTFpwCLcBGAsYHQ/s200/hd-warnertv.png" group-title="Movie",  WB TV
 http://203.150.107.30:8081/tested2iptv/core108/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Movie",  Prive HD 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-42XAQhcCDMA/X1Jl7wJFe4I/AAAAAAAAAEY/iDbnAngVyzkCAoVSdwmXP7Xz3pPSdvSkQCLcBGAsYHQ/s256/AndPrive.in.png" group-title="Movie",  Prive HD
 https://y5w8j4a9.ssl.hwcdn.net/andprivehd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Movie",  Flix TV 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-l3mr4nKPxCo/X1Jjdofvr1I/AAAAAAAAAEM/G9DtZYLBMLsJtzak1Dtlq2zQS9UFrDkOACLcBGAsYHQ/s256/AndFlix.in.png" group-title="Movie",  Flix TV
 https://y5w8j4a9.ssl.hwcdn.net/andflixhd/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Movie",  Fox Family Movie 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-X9Ko_HZXfZI/X1JgaZJZ0zI/AAAAAAAAAEA/-a7JRWr6YgkHfQaYPZsoQG1IE93N0mpCgCLcBGAsYHQ/s200/hd-foxfamily.png" group-title="Movie",  Fox Family Movie
 http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Movie",  Fox Action Movies 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-Qnc3BXSHP1w/X1Jd5OWfOBI/AAAAAAAAADw/JEj9-4QP_voGbnxb7DmkQYpDn56-c-fZwCLcBGAsYHQ/s200/hd-foxaction.png" group-title="Movie",  Fox Action Movies
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Movie",  Fox Movies 
-http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8     
-     
-    
-    
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Geo", H2 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oymksqs6Ras/X1JYpzd9nPI/AAAAAAAAADg/6FVzDt7JsrAha0asGyFGJOeyVnlZeLAPwCLcBGAsYHQ/s820/fox-movies-television-channel-star-movies-logo-png-favpng-rJLLqEaJXxaZncCtt6AKy4DAy.jpg" group-title="Movie",  Fox Movies
+http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-3a_JrRBeoXg/X1n58YbT5sI/AAAAAAAAAVE/NLOeyWAZnGoNVLpVyQvNckaKyHiCfa6zACLcBGAsYHQ/s200/hd-history2%2B%25281%2529.png" group-title="Geo", H2
 http://203.150.107.30:8081/tested2iptv/core106/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Geo", History 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-f1KKHhA4fhY/X1ObVOKOwyI/AAAAAAAAALo/OR2nTcB92vExzJi1wTRJ96-0ZUGzD85vgCLcBGAsYHQ/s200/hd-history.png" group-title="Geo", History
 http://203.150.107.30:8081/tested2iptv/core105/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Geo", National Geographic 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-F1o-UUY_sgo/X1OM-xWjF9I/AAAAAAAAALE/mE0VfU7hF9UA_CbDVKRx1Q8XMgplCruAQCLcBGAsYHQ/s1200/NG_DOC_LOGO.jpg" group-title="Geo", National Geographic
 https://www.fanmingming.cn/hls/natlgeo.m3u8
-#EXTINF:-1 tvg-logo="https://img1.blogblog.com/img/b16-rounded.gif" group-title="Geo", Discovery Channel 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-P15uV_brH3o/X1L-39U650I/AAAAAAAAAFk/A_KQfPdOhEAMx9Finhc9zMbRqjfhjvGIACLcBGAsYHQ/s290/images%2B%25283%2529.png" group-title="Geo", Discovery Channel
 https://www.fanmingming.cn/hls/discovery.m3u8
 
