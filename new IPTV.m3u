@@ -98,6 +98,8 @@ http://203.150.107.30:8081/tested2iptv/core14/playlist.m3u8
 http://104.250.154.42:8080/ZZ_foxaction/ZZ_foxaction.m3u8
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-oymksqs6Ras/X1JYpzd9nPI/AAAAAAAAADg/6FVzDt7JsrAha0asGyFGJOeyVnlZeLAPwCLcBGAsYHQ/s820/fox-movies-television-channel-star-movies-logo-png-favpng-rJLLqEaJXxaZncCtt6AKy4DAy.jpg" group-title="Movie",  Fox Movies
 http://203.150.107.30:8081/tested2iptv/core12/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-X9Ko_HZXfZI/X1JgaZJZ0zI/AAAAAAAAAEA/-a7JRWr6YgkHfQaYPZsoQG1IE93N0mpCgCLcBGAsYHQ/s200/hd-foxfamily.png" group-title="Movie",  Cinemax
+http://live11.cookietv.com/live/172e104d-09f1-4d03-8f06-59fd5ae54fe5/prod/gidlean/progress-playlist.m3u8
 
 
 
